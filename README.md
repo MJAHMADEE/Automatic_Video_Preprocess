@@ -3,20 +3,20 @@
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x+-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![Original Video](https://img.shields.io/badge/Original_Video-Watch-blueviolet)](https://github.com/MJAHMADEE/Automatic_Video_Preprocess/blob/main/yolov8/assets/Original.mp4)
+[![Processed Video](https://img.shields.io/badge/Processed_Video-Watch-blueviolet)](https://github.com/MJAHMADEE/Automatic_Video_Preprocess/blob/main/yolov8/assets/Black.mp4)
 
 This repository demonstrates an advanced video preprocessing technique using the state-of-the-art YOLOv8 object detection model combined with BYTETracker for object tracking. The primary functionality includes detecting and tracking objects in a video stream and darkening all other pixels except for those within the bounding boxes of the detected objects. This preprocessing technique is especially useful in privacy-sensitive environments or for highlighting specific objects in a video analysis task.
 
 ## 📹 Example Videos
 
-### Original Video
-<video src="https://github.com/MJAHMADEE/Automatic_Video_Preprocess/blob/main/yolov8/assets/Original.mp4" controls="controls" style="max-width: 720px;">
-Your browser does not support the video tag.
-</video>
+Below are the hyperlinks to watch the original and processed videos directly from this repository:
 
-### Processed Video with Darkened Background
-<video src="https://github.com/MJAHMADEE/Automatic_Video_Preprocess/blob/main/yolov8/assets/Black.mp4" controls="controls" style="max-width: 720px;">
-Your browser does not support the video tag.
-</video>
+- **Original Video:**  
+[Watch the Original Video](https://github.com/MJAHMADEE/Automatic_Video_Preprocess/blob/main/yolov8/assets/Original.mp4)
+
+- **Processed Video with Darkened Background:**  
+[Watch the Processed Video](https://github.com/MJAHMADEE/Automatic_Video_Preprocess/blob/main/yolov8/assets/Black.mp4)
 
 ## 📄 License
 
